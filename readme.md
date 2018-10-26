@@ -1,6 +1,6 @@
 # RepairMe
 
-## TLDR
+## TL;DR
 
 The idea behind the project was the development of a platform for the reporting of damaged public property (e.g. broken pavement parts, rusty fences, etc.). Using this web platform, it would be easier for local governments to quickly identify and resolve issues related to damaged public properties. As a result this crowdsourced platform would benefit the public using reports created by users, that hoped that the identified damages would be “repaired”, hence the name of the platform.
 
